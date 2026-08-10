@@ -1,5 +1,5 @@
 # HRTechPeopleAnalytics_Semana02
-# HR Tech People Analytics - Guía 02
+
 
 ## Descripción del proyecto
 
